@@ -1,5 +1,5 @@
-// const API = window.location.origin;
-const API = "http://bore.pub:43363";
+const API = window.location.origin;
+// const API = "http://bore.pub:43363";
 
 // DOM элементы
 const chatContainer = document.getElementById('chat');
