@@ -83,7 +83,7 @@ function updateUI() {
 
     if (titleEl) {
         titleEl.textContent = i18n[currentLang].title;
-        titleEl.style.background = "linear-gradient(135deg, #E8D1C1, #E6DED3)";
+        titleEl.style.background = "linear-gradient(135deg, #C9A87C, #A88B5E)";
         titleEl.style.webkitBackgroundClip = "text";
         titleEl.style.webkitTextFillColor = "transparent";
         titleEl.style.backgroundClip = "text";
